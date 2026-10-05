@@ -1,20 +1,20 @@
 <div align="center">
 
-# Hi there, I'm Devarsh Sharma
+# Devarsh Sharma
 
-**Aerospace Engineer | Python Automation, Computer Vision & High-Performance Media Pipelines**
+**Aerospace Engineer | Python Automation, Computer Vision & Computational Pipelines**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarsh-sharma-6a0b9a224)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevarshSharma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devarshsharmawork@gmail.com)
 
 <p align="center">
-  <em>Backend & automation developer specializing in multi-threaded workflows, hardware-accelerated processing, and algorithmic content pipelines. Passionate about building robust tools that transform manual bottlenecks into hands-off execution.</em>
+  <em>Aerospace engineer driven by software development and end-to-end process automation in Python. Focused on applying programmatic logic, computer vision, and hardware-accelerated computing to solve technical bottlenecks and optimize high-throughput workflows.</em>
 </p>
 
 ---
 
-### Core Tech Stack & Tools
+### Core Tech Stack and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -33,26 +33,26 @@
 
 ### About Me
 
-- **Current Focus:** Engineering modular, high-throughput Python backends, CLI tools, and automated media pipelines.
-- **Video Automation & Hardware Encoding:** Architected an autonomous rendering and publishing pipeline leveraging **NVIDIA NVENC GPU acceleration** (`h264_nvenc`, ultra-low latency `ull` presets, lossless audio pass), decreasing processing times for multi-cut high-resolution exports.
-- **Computer Vision & Audio Intelligence:** Implemented automated timestamp extraction with **EasyOCR** for in-game event recognition, combined with **PyDub** acoustic thresholding for silence removal and programmatic canvas composition via **OpenCV** and **Pillow**.
-- **API Integration & Concurrency:** Designed automated channel publishing clients with OAuth2 authentication, chunked resumable uploads via the **YouTube Data API v3**, and multi-threaded worker pools.
-- **Goals:** Actively seeking software engineering, automation development, and backend roles to build production-scale computational tools.
+- **Background & Focus:** Aerospace engineer channeling analytical problem-solving into software engineering, computational algorithms, and system-level automation using Python.
+- **High-Throughput Media Automation:** Architected an autonomous processing pipeline leveraging **NVIDIA NVENC hardware acceleration** (`h264_nvenc` with low-latency constant QP tuning), integrated with multi-threaded chunk rendering and lossless audio sampling to process multi-gigabyte video libraries.
+- **Computer Vision & Signal Processing:** Built automated event-detection systems utilizing **EasyOCR** for real-time frame text analysis, combined with **PyDub** decibel-threshold signal passes for silent audio striping and dynamic canvas drawing with **OpenCV** and **Pillow**.
+- **API & Concurrency Architecture:** Designed an automated publishing utility featuring OAuth2 token lifecycle management, multi-threaded task distribution via `concurrent.futures`, and chunked resumable media streams through the **YouTube Data API v3**.
+- **Engineering Philosophy:** Committed to building modular open-source utilities and writing software that eliminates manual iteration across data, media, and technical workflows.
 
 ---
 
-### Key Projects
+### Featured Repositories
 
-| Repository | Focus Area | Highlights |
+| Repository | Focus Area | Technical Summary |
 | :--- | :--- | :--- |
-| **[AutoVideo-Pipeline](https://github.com/DevarshSharma)** | Video Automation / GPU | Multi-threaded MoviePy pipeline with NVENC acceleration, lossless audio synchronization, and automated shorts formatting. |
-| **[OCR-Event-Cutter](https://github.com/DevarshSharma)** | Computer Vision / OCR | Frame-by-frame text parsing using EasyOCR to slice game highlights autonomously from video feeds. |
-| **[Acoustic-Silence-Cutter](https://github.com/DevarshSharma)** | Audio Signal Processing | Decibel-threshold silence detection and export coordination for automated content cleanup. |
+| **[AutoVideo-Pipeline](https://github.com/DevarshSharma)** | Video Automation / GPU | Multi-threaded MoviePy pipeline utilizing NVENC acceleration, strict audio rate matching, and dynamic canvas generation. |
+| **[OCR-Event-Cutter](https://github.com/DevarshSharma)** | Computer Vision / OCR | Frame-by-frame text parsing using EasyOCR to identify triggers and slice relevant footage. |
+| **[Acoustic-Silence-Cutter](https://github.com/DevarshSharma)** | Audio Signal Processing | Decibel-threshold silence detection and automated CSV timestamp extraction for stream optimization. |
 | **[YouTube-Publisher-Client](https://github.com/DevarshSharma)** | API Engineering / Concurrency | ThreadPool-driven automated publishing utility with OAuth2 refresh cycles and resumable chunk uploads. |
 
 ---
 
-### GitHub Activity & Metrics
+### GitHub Activity and Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevarshSharma&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Devarsh's GitHub Stats" width="48%" />
@@ -65,19 +65,19 @@
 
 ---
 
-### Licensing & Usage Terms
+### Licensing and Commercial Terms
 
-Unless explicitly stated otherwise, the original software repositories published under this profile are licensed under non-commercial or strong copyleft terms (e.g., [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html) / [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
+Unless explicitly stated otherwise, the original software repositories published under this profile are licensed under non-commercial or strong copyleft terms (e.g., [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/) or [GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html)).
 
-> **Commercial Use Restriction:** These programs are open for personal exploration, academic research, and community contributions. Unauthorized commercial use, closed-source re-distribution for profit, or proprietary monetization is strictly prohibited without explicit written permission.
+> **Commercial Use Restriction:** All codebases are open for personal exploration, educational study, and technical review. Unauthorized commercial redistribution, proprietary monetization, or closed-source resale is strictly prohibited without prior written consent.
 
 ---
 
 <div align="center">
 
-### Connect With Me
+### Connect
 
-Looking to discuss software architecture, automation pipelines, or potential backend opportunities?
+Open to technical inquiries regarding Python automation pipelines, system scripting, and software collaboration.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarsh-sharma-6a0b9a224)
 [![Explore Repositories](https://img.shields.io/badge/Explore_Projects-181717?style=flat&logo=github&logoColor=white)](https://github.com/DevarshSharma?tab=repositories)
