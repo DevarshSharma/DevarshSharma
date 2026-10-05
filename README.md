@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Devarsh Sharma 👋
+# Hi there, I'm Devarsh Sharma
 
 **Aerospace Engineer | Python Automation, Computer Vision & High-Performance Media Pipelines**
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
+### Core Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -31,17 +31,17 @@
 
 ---
 
-### 💻 About Me
+### About Me
 
-- ⚙️ **Current Focus:** Engineering modular, high-throughput Python backends, CLI tools, and automated media pipelines.
-- ⚡ **Video Automation & Hardware Encoding:** Architected an autonomous rendering and publishing pipeline leveraging **NVIDIA NVENC GPU acceleration** (`h264_nvenc`, ultra-low latency `ull` presets, lossless audio pass), decreasing processing times for multi-cut high-resolution exports.
-- 👁️ **Computer Vision & Audio Intelligence:** Implemented automated timestamp extraction with **EasyOCR** for in-game event recognition, combined with **PyDub** acoustic thresholding for silence removal and programmatic canvas composition via **OpenCV** and **Pillow**.
-- ☁️ **API Integration & Concurrency:** Designed automated channel publishing clients with OAuth2 authentication, chunked resumable uploads via the **YouTube Data API v3**, and multi-threaded worker pools.
-- 🚀 **Goals:** Actively seeking software engineering, automation development, and backend roles to build production-scale computational tools.
+- **Current Focus:** Engineering modular, high-throughput Python backends, CLI tools, and automated media pipelines.
+- **Video Automation & Hardware Encoding:** Architected an autonomous rendering and publishing pipeline leveraging **NVIDIA NVENC GPU acceleration** (`h264_nvenc`, ultra-low latency `ull` presets, lossless audio pass), decreasing processing times for multi-cut high-resolution exports.
+- **Computer Vision & Audio Intelligence:** Implemented automated timestamp extraction with **EasyOCR** for in-game event recognition, combined with **PyDub** acoustic thresholding for silence removal and programmatic canvas composition via **OpenCV** and **Pillow**.
+- **API Integration & Concurrency:** Designed automated channel publishing clients with OAuth2 authentication, chunked resumable uploads via the **YouTube Data API v3**, and multi-threaded worker pools.
+- **Goals:** Actively seeking software engineering, automation development, and backend roles to build production-scale computational tools.
 
 ---
 
-### 📦 Key Projects
+### Key Projects
 
 | Repository | Focus Area | Highlights |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevarshSharma&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Devarsh's GitHub Stats" width="48%" />
@@ -65,7 +65,7 @@
 
 ---
 
-### 🛡️ Licensing & Usage Terms
+### Licensing & Usage Terms
 
 Unless explicitly stated otherwise, the original software repositories published under this profile are licensed under non-commercial or strong copyleft terms (e.g., [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html) / [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
 
@@ -75,7 +75,7 @@ Unless explicitly stated otherwise, the original software repositories published
 
 <div align="center">
 
-### 📬 Connect With Me
+### Connect With Me
 
 Looking to discuss software architecture, automation pipelines, or potential backend opportunities?
 
